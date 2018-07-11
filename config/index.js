@@ -13,7 +13,7 @@ module.exports = {
 	proxyTable: {
 			// 服务器代理
 			'/api': {
-				target: 'http://orp320.dev.heroera.com', // 开发
+				target: 'http://localhost:8080', // 开发服务器
 				changeOrigin: true,
 				pathRewrite: {
 					'^/api': ''

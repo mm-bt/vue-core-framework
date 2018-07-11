@@ -39,7 +39,7 @@
 					// console.log(params);
 
 					let params = {
-						telephone: '18180673372',
+						telephone: '13436198888',
 						code: '123456',
 					};
 
@@ -48,7 +48,7 @@
 						// 登陆成功
 						let user = {
 							user_id: 1,
-							telephone: '18180673372',
+							telephone: '13436198888',
 						};
 
 						//分发管理员登录的action

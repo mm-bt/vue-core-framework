@@ -1,7 +1,6 @@
 # vue-core-framework
 
 > 项目基于Vue.js 2.x + vue-router + vuex + axios集成的一个简单版VUE全家桶。
->[线上预览地址](http://demo.liangxinghua.com/vue-core/login)
 
 ## 说明
 该项目使用vue-cli脚手架生成目录，只有最核心的代码，非常精简，可以直接下载下来进行迭代开发，目前我们项目也在使用。
